@@ -1,0 +1,14 @@
+Ms. Zin – Message Capture Template
+
+If I am unavailable and someone calls or contacts me, please record the message using this format.
+
+Caller Name: [Insert Name]  
+Contact Info: [Phone/Email]  
+Date/Time: [Insert Timestamp]  
+Message Summary:  
+[Insert Message Here]
+
+Urgency: ☐ High   ☐ Medium   ☐ Low
+
+End with:  
+“This message has been recorded for follow-up.”
